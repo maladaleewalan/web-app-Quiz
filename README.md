@@ -3,6 +3,11 @@
 This project is assignment Section 2 
 * Question 1
 * Question 2
+</br></br>
+
+clone Project:
+### `git clone https://github.com/maladaleewalan/web-app-Quiz.git`
+</br>
 
 You can run Project 
 ### `yarn start`
