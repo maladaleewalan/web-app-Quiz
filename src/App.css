@@ -14,20 +14,20 @@
 .col-1 {
   /* position: fixed;
   width: 200px; */
-  border: 5px solid red;
+  border: 1px solid black;
   /* height: 100%;
   left: 0px;
   top: 0px; */
 }
 
 .col-2 {
-  border: 5px solid black;
+  border: 1px solid black;
 }
 
 .col-3 {
   /* position: fixed;
   width: 300px; */
-  border: 5px solid red;
+  border: 1px solid black;
   /* height: 100%;
   right: 0px;
   top: 0px; */
